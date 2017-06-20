@@ -8607,7 +8607,7 @@ AA制	aarm	985000
 𦫡	adwc	0
 碁	adwd	8290000
 𠔴	adwd	0
-朞	adwe	61800
+#朞	adwe	61800
 期	adwe	354000000
 𤯉	adwe	0
 𦡾	adwe	0
@@ -29496,13 +29496,13 @@ AA制	aarm	985000
 叝	fcbc	60900
 支取	fcbc	905000
 云际	fcbf	167000
-㘧	fcbh	4260
-䢵	fcbh	3760
+# 㘧	fcbh	4260
+# 䢵	fcbh	3760
 却	fcbh	343000000
-霿	fcbh	35300
-𨙸	fcbh	0
-𨚫	fcbh	0
-𩄯	fcbh	0
+# 霿	fcbh	35300
+# 𨙸	fcbh	0
+# 𨚫	fcbh	0
+# 𩄯	fcbh	0
 去函	fcbi	156000
 去职	fcbk	422000
 霱	fcbk	26500
